@@ -5,7 +5,7 @@ Highcharts.maps['belarus2'] = [
       "mapData": [
         {
           "id": "id0",
-          "name": "hrodnenskaia-voblasts",
+          "name": "BY-HR-REG",
           "hc-code":'BY-HR-REG',
           "short-name":'Hr-reg',
           "full-name": 'Grodno Region',
@@ -13,7 +13,7 @@ Highcharts.maps['belarus2'] = [
         },
         {
           "id": "id1",
-          "name": "vitsebskaia-voblasts",
+          "name": "BY-VI-REG",
           "hc-code":'BY-VI-REG',
           "short-name":'Vi-reg',
           "full-name": 'Vitebsk Region',
@@ -21,7 +21,7 @@ Highcharts.maps['belarus2'] = [
         },
         {
           "id": "id2",
-          "name": "mahiliouskaia-voblasts",
+          "name": "BY-MA-REG",
           "hc-code":'BY-MA-REG',
           "short-name":'Mo-reg',
           "full-name": 'Mogilev Region',
@@ -29,7 +29,7 @@ Highcharts.maps['belarus2'] = [
         },
         {
           "id": "id3",
-          "name": "homelskaia-voblasts",
+          "name": "BY-HO-REG",
           "hc-code":'BY-HO-REG',
           "short-name":'Go-reg',
           "full-name": 'Gomel Region',
@@ -37,7 +37,7 @@ Highcharts.maps['belarus2'] = [
         },
         {
           "id": "id4",
-          "name": "minskaia-voblasts",
+          "name": "BY-MI-REG",
           "hc-code":'BY-MI-REG',
           "short-name":'Mi-reg',
           "full-name": 'Minsk Region',
@@ -45,7 +45,7 @@ Highcharts.maps['belarus2'] = [
         },
         {
           "id": "id5",
-          "name": "brestskaia-voblasts",
+          "name": "BY-BR-REG",
           "hc-code":'BY-BR-REG',
           "short-name":'Br-reg',
           "full-name": 'Brest Region',
