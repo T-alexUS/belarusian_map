@@ -37,6 +37,13 @@
 		<circle id="horad-homel" cx="450" cy="375" r="4"/>
 		<circle id="horad-hrodna" cx="40" cy="250" r="4"/>
 		<circle id="horad-navapolatsk" cx="310" cy="75" r="4"/>
+
+		<polygon id = "horad-brest" points = ""/>
+		<polygon id = "horad-mahiliou" points = ""/>
+		<polygon id = "horad-vitsebsk" points = ""/>
+		<polygon id = "horad-homel" points = ""/>
+		<polygon id = "horad-hrodna" points = ""/>
+		<polygon id = "horad-minsk" points = ""/>
 	</g>
 	
 	<circle id="horad-minsk" cx="253" cy="231" r="8"/>
